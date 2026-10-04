@@ -8,7 +8,8 @@ data. I also build retrieval-augmented generation (RAG) applications with LLMs.
 **Data Engineer, Biome Analytics** (March 2025 to present)
 * Work with US healthcare revenue-cycle data under HIPAA rules.
 * Migrated data pipelines from Spark to Ibis.
-* Built an ID-mapping service that loads identifiers into the database.
+* Built a service that loads 500 million records from the data lake into the database.
+  The service uses parallel processing.
 * Built data quality checks for the pipelines.
 * Tools: Python, SQL, Spark, Ibis, Databricks, Dagster, Azure (AKS).
 
